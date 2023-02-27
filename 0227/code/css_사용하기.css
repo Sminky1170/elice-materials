@@ -1,0 +1,9 @@
+.paragraph {
+  width: 500px;
+  height: 500px;
+  background-color: #6936b5;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: sans-serif;
+}
